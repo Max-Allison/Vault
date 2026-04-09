@@ -25,10 +25,14 @@
             "id": "814486c699767608",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "CSCI 103/Final Notes/TESTTTT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TESTTTT"
             }
           }
         ],
@@ -205,6 +209,7 @@
   },
   "active": "a1c913dc83a88a7d",
   "lastOpenFiles": [
+    "CSCI 103/Final Notes/TESTTTT.md",
     "vault-repo/README.txt.md",
     "vault-repo",
     "CSCI 103/Final Notes/Objects.md",
@@ -233,7 +238,6 @@
     "CSCI 103/Flashcards/CSCI 103 Flashcards 4b.md",
     "CSCI 103/Flashcards/CSCI 103 Flashcards 3b.md",
     "CSCI 103/Flashcards/CSCI 103 Flashcards 4a.md",
-    "CSCI 103/Flashcards/CSCI 103 Flashcards 3a.md",
     "CSCI 103/Daily",
     "Game Design",
     "CORE 112",
