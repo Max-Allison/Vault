@@ -69,33 +69,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "CSCI 103/Final Notes/TESTTTT.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "newlineCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1775703310951,
-      "modifiedDate": 1775703310951,
-      "sizeInBytes": 0,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
-      }
-    },
     "CSCI 103/Final Notes/Object Orientation.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -490,33 +463,6 @@
           "Daily",
           "CSCI103"
         ]
-      }
-    },
-    "conflict-files-obsidian-git.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 83,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.27666666666666667,
-      "characterCount": 624,
-      "nonWhitespaceCharacterCount": 524,
-      "newlineCount": 17,
-      "readingTimeInMinutes": 0.3132075471698113,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1775703378518,
-      "modifiedDate": 1775703378519,
-      "sizeInBytes": 624,
-      "sessionStart": {
-        "noteCount": 0,
-        "pageCount": 0,
-        "wordCount": 0,
-        "characterCount": 0,
-        "nonWhitespaceCharacterCount": 0,
-        "newlineCount": 0
       }
     }
   }
