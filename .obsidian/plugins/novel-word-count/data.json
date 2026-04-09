@@ -69,402 +69,6 @@
     "debugMode": false
   },
   "cachedCounts": {
-    "CSCI 103/Final Notes/Structs.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 80,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.26666666666666666,
-      "characterCount": 486,
-      "nonWhitespaceCharacterCount": 406,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.3018867924528302,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1775636180302,
-      "modifiedDate": 1775639926873,
-      "sizeInBytes": 525,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.26666666666666666,
-        "wordCount": 80,
-        "characterCount": 486,
-        "nonWhitespaceCharacterCount": 406,
-        "newlineCount": 2
-      },
-      "frontmatter": {
-        "tags": [
-          "FinalNote",
-          "CSCI103"
-        ]
-      }
-    },
-    "CSCI 103/Final Notes/Objects.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1522,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 5.073333333333333,
-      "characterCount": 10974,
-      "nonWhitespaceCharacterCount": 8507,
-      "newlineCount": 301,
-      "readingTimeInMinutes": 5.743396226415094,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1775633724028,
-      "modifiedDate": 1775643090346,
-      "sizeInBytes": 11013,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 5.073333333333333,
-        "wordCount": 1522,
-        "characterCount": 10974,
-        "nonWhitespaceCharacterCount": 8507,
-        "newlineCount": 301
-      },
-      "frontmatter": {
-        "tags": [
-          "FinalNote",
-          "CSCI103"
-        ]
-      }
-    },
-    "CSCI 103/Final Notes/Enumerations.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 135,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.45,
-      "characterCount": 910,
-      "nonWhitespaceCharacterCount": 755,
-      "newlineCount": 33,
-      "readingTimeInMinutes": 0.5094339622641509,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1775633297504,
-      "modifiedDate": 1775639921117,
-      "sizeInBytes": 949,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.45,
-        "wordCount": 135,
-        "characterCount": 910,
-        "nonWhitespaceCharacterCount": 755,
-        "newlineCount": 33
-      },
-      "frontmatter": {
-        "tags": [
-          "FinalNote",
-          "CSCI103"
-        ]
-      }
-    },
-    "CSCI 103/Final Notes/Object Orientation.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 81,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.27,
-      "characterCount": 538,
-      "nonWhitespaceCharacterCount": 457,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.30566037735849055,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1775633819574,
-      "modifiedDate": 1775639922968,
-      "sizeInBytes": 577,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.27,
-        "wordCount": 81,
-        "characterCount": 538,
-        "nonWhitespaceCharacterCount": 457,
-        "newlineCount": 2
-      },
-      "frontmatter": {
-        "tags": [
-          "FinalNote",
-          "CSCI103"
-        ]
-      }
-    },
-    "CSCI 103/Final Notes/Encapsulation.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 83,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.27666666666666667,
-      "characterCount": 475,
-      "nonWhitespaceCharacterCount": 392,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.3132075471698113,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1775634471416,
-      "modifiedDate": 1775639918944,
-      "sizeInBytes": 514,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.27666666666666667,
-        "wordCount": 83,
-        "characterCount": 475,
-        "nonWhitespaceCharacterCount": 392,
-        "newlineCount": 2
-      },
-      "frontmatter": {
-        "tags": [
-          "FinalNote",
-          "CSCI103"
-        ]
-      }
-    },
-    "CSCI 103/Final Notes/Classes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 80,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.26666666666666666,
-      "characterCount": 486,
-      "nonWhitespaceCharacterCount": 406,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.3018867924528302,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1775637339691,
-      "modifiedDate": 1775639916557,
-      "sizeInBytes": 525,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.26666666666666666,
-        "wordCount": 80,
-        "characterCount": 486,
-        "nonWhitespaceCharacterCount": 406,
-        "newlineCount": 2
-      },
-      "frontmatter": {
-        "tags": [
-          "FinalNote",
-          "CSCI103"
-        ]
-      }
-    },
-    "CSCI 103/Final Notes/Abstraction.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 100,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.3333333333333333,
-      "characterCount": 584,
-      "nonWhitespaceCharacterCount": 484,
-      "newlineCount": 2,
-      "readingTimeInMinutes": 0.37735849056603776,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1775634692195,
-      "modifiedDate": 1775639913563,
-      "sizeInBytes": 623,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.3333333333333333,
-        "wordCount": 100,
-        "characterCount": 584,
-        "nonWhitespaceCharacterCount": 484,
-        "newlineCount": 2
-      },
-      "frontmatter": {
-        "tags": [
-          "FinalNote",
-          "CSCI103"
-        ]
-      }
-    },
-    "CSCI 103/Daily/March 26, 2026 Lecture Notes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 15,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05,
-      "characterCount": 123,
-      "nonWhitespaceCharacterCount": 103,
-      "newlineCount": 6,
-      "readingTimeInMinutes": 0.05660377358490566,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1774564077898,
-      "modifiedDate": 1775639936338,
-      "sizeInBytes": 158,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.05,
-        "wordCount": 15,
-        "characterCount": 123,
-        "nonWhitespaceCharacterCount": 103,
-        "newlineCount": 6
-      },
-      "frontmatter": {
-        "tags": [
-          "Daily",
-          "CSCI103"
-        ]
-      }
-    },
-    "CSCI 103/Daily/March 31, 2026 Lecture Notes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1104,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.68,
-      "characterCount": 7461,
-      "nonWhitespaceCharacterCount": 6082,
-      "newlineCount": 199,
-      "readingTimeInMinutes": 4.166037735849057,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1774573649815,
-      "modifiedDate": 1775639938174,
-      "sizeInBytes": 7496,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.68,
-        "wordCount": 1104,
-        "characterCount": 7461,
-        "nonWhitespaceCharacterCount": 6082,
-        "newlineCount": 199
-      },
-      "frontmatter": {
-        "tags": [
-          "Daily",
-          "CSCI103"
-        ]
-      }
-    },
-    "CSCI 103/Daily/March 24, 2026 Lecture Notes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 238,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7933333333333333,
-      "characterCount": 1531,
-      "nonWhitespaceCharacterCount": 1241,
-      "newlineCount": 39,
-      "readingTimeInMinutes": 0.8981132075471698,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1774399803403,
-      "modifiedDate": 1775639934296,
-      "sizeInBytes": 1566,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 0.7933333333333333,
-        "wordCount": 238,
-        "characterCount": 1531,
-        "nonWhitespaceCharacterCount": 1241,
-        "newlineCount": 39
-      },
-      "frontmatter": {
-        "tags": [
-          "Daily",
-          "CSCI103"
-        ]
-      }
-    },
-    "CSCI 103/Daily/April 7, 2026 Lecture Notes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1117,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.723333333333333,
-      "characterCount": 7149,
-      "nonWhitespaceCharacterCount": 5879,
-      "newlineCount": 101,
-      "readingTimeInMinutes": 4.215094339622642,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1775610271744,
-      "modifiedDate": 1775639932336,
-      "sizeInBytes": 7186,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.723333333333333,
-        "wordCount": 1117,
-        "characterCount": 7149,
-        "nonWhitespaceCharacterCount": 5879,
-        "newlineCount": 101
-      },
-      "frontmatter": {
-        "tags": [
-          "Daily",
-          "CSCI103"
-        ]
-      }
-    },
-    "CSCI 103/Daily/April 2, 2026 Lecture Notes.md": {
-      "isCountable": true,
-      "targetNodeType": "file",
-      "noteCount": 1,
-      "wordCount": 1015,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 3.3833333333333333,
-      "characterCount": 7142,
-      "nonWhitespaceCharacterCount": 5908,
-      "newlineCount": 160,
-      "readingTimeInMinutes": 3.830188679245283,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1775178369594,
-      "modifiedDate": 1775639930239,
-      "sizeInBytes": 7177,
-      "sessionStart": {
-        "noteCount": 1,
-        "pageCount": 3.3833333333333333,
-        "wordCount": 1015,
-        "characterCount": 7142,
-        "nonWhitespaceCharacterCount": 5908,
-        "newlineCount": 160
-      },
-      "frontmatter": {
-        "tags": [
-          "Daily",
-          "CSCI103"
-        ]
-      }
-    },
     "CSCI 103/Final Notes/TESTTTT.md": {
       "isCountable": true,
       "targetNodeType": "file",
@@ -480,9 +84,345 @@
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1775702922442,
-      "modifiedDate": 1775702922442,
+      "createdDate": 1775703310951,
+      "modifiedDate": 1775703310951,
       "sizeInBytes": 0,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CSCI 103/Final Notes/Object Orientation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1775702500680,
+      "modifiedDate": 1775702500680,
+      "sizeInBytes": 582,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CSCI 103/Final Notes/Objects.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 1522,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 5.073333333333333,
+      "characterCount": 11274,
+      "nonWhitespaceCharacterCount": 8507,
+      "newlineCount": 301,
+      "readingTimeInMinutes": 5.743396226415094,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1775702500681,
+      "modifiedDate": 1775703308549,
+      "sizeInBytes": 11317,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 5.073333333333333,
+        "wordCount": 1522,
+        "characterCount": 11274,
+        "nonWhitespaceCharacterCount": 8507,
+        "newlineCount": 301
+      },
+      "frontmatter": {
+        "tags": [
+          "FinalNote",
+          "CSCI103"
+        ]
+      }
+    },
+    "CSCI 103/Final Notes/Structs.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1775702500681,
+      "modifiedDate": 1775702500681,
+      "sizeInBytes": 530,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CSCI 103/Final Notes/Encapsulation.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1775702500678,
+      "modifiedDate": 1775703221114,
+      "sizeInBytes": 519,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CSCI 103/Final Notes/Classes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1775702500678,
+      "modifiedDate": 1775703221115,
+      "sizeInBytes": 530,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CSCI 103/Final Notes/Enumerations.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 135,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.45,
+      "characterCount": 942,
+      "nonWhitespaceCharacterCount": 755,
+      "newlineCount": 33,
+      "readingTimeInMinutes": 0.5094339622641509,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1775702500680,
+      "modifiedDate": 1775703308549,
+      "sizeInBytes": 985,
+      "sessionStart": {
+        "noteCount": 1,
+        "pageCount": 0.45,
+        "wordCount": 135,
+        "characterCount": 942,
+        "nonWhitespaceCharacterCount": 755,
+        "newlineCount": 33
+      },
+      "frontmatter": {
+        "tags": [
+          "FinalNote",
+          "CSCI103"
+        ]
+      }
+    },
+    "CSCI 103/Final Notes/Abstraction.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1775702500678,
+      "modifiedDate": 1775703221115,
+      "sizeInBytes": 628,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CSCI 103/Daily/March 26, 2026 Lecture Notes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1775702500677,
+      "modifiedDate": 1775702500677,
+      "sizeInBytes": 167,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CSCI 103/Daily/March 24, 2026 Lecture Notes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1775702500668,
+      "modifiedDate": 1775702500677,
+      "sizeInBytes": 1608,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CSCI 103/Daily/March 31, 2026 Lecture Notes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1775702500678,
+      "modifiedDate": 1775702500678,
+      "sizeInBytes": 7698,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CSCI 103/Daily/April 7, 2026 Lecture Notes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1775702500667,
+      "modifiedDate": 1775703221116,
+      "sizeInBytes": 7290,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
+    },
+    "CSCI 103/Daily/April 2, 2026 Lecture Notes.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 0,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "newlineCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": [],
+      "createdDate": 1775702500667,
+      "modifiedDate": 1775703221116,
+      "sizeInBytes": 7340,
       "sessionStart": {
         "noteCount": 0,
         "pageCount": 0,
