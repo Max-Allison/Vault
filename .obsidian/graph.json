@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"CSCI 103\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 40447
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 1.5,
+  "nodeSizeMultiplier": 0.509396701388889,
+  "lineSizeMultiplier": 0.710373263888889,
+  "collapse-forces": false,
+  "centerStrength": 0.652690972222222,
+  "repelStrength": 12.3940972222222,
+  "linkStrength": 0.912326388888889,
+  "linkDistance": 30,
+  "scale": 2.2532262517431962,
+  "close": true
+}
