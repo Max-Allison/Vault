@@ -102,4 +102,4 @@ tags:
 - Calling a virtual function, requires following the vtable ptr at runtime (dynamically) to find the correct function to call
 
 
-[[April 2, 2026 Lecture Notes|Previous Lecture]] | [[April 7, 2026 Lecture Notes|Next lecture]]
+[[April 2, 2026 Lecture Notes|Previous Lecture]] | [[April 9, 2026 Lecture Notes|Next Lecture]]
